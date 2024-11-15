@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="671b54ff-e18d-417b-87e2-9bf4d37b2345" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Module19_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/Django/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/Django/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/Django/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/Django/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/Django/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/task1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/task1/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/task1/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/task1/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/task1/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/task1/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/task1/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2otUpjaVx4a9dpNyB7dATx8jPvJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="671b54ff-e18d-417b-87e2-9bf4d37b2345" name="Changes" comment="" />
+      <created>1731688551053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731688551053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
