@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'task1.apps.Task1Config'
+    'task1'
 ]
 
 MIDDLEWARE = [
@@ -77,14 +77,13 @@ WSGI_APPLICATION = 'Django.wsgi.application'
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql_psycopg2",
-        "NAME": "Roman",
+        "NAME": "User",
         "USER": "postgres",
-        "PASSWORD": "123",
+        "PASSWORD": "qwer",
         "HOST": "localhost",
-        "PORT": "5433",
-        'OPTIONS': {
-            'client_encoding': 'UTF8',  # Убедитесь, что кодировка установлена
-        },
+        "PORT": "",
+
+
     }
 }
 
